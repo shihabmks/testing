@@ -261,7 +261,7 @@ now we need to create page for Products page. So create one file named as <b>pro
 
 <code><pre>
 Copy the content from the below link 
-<a href="https://github.com/shihabmks/testing/tree/master/chamnes/resources/views/pages/products.blade.php">Click to open app.blade.php Page</a>
+<a href="https://github.com/shihabmks/testing/tree/master/chamnes/resources/views/pages/products.blade.php">Click to open products.blade.php Page</a>
 </pre></code>
 
 
